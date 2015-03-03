@@ -1,2 +1,1 @@
-# ubs-assignment
-Java Berlin Clock Implementation for UBS Interview
+# java-berlin-clock
